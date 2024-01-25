@@ -34,3 +34,16 @@ dependencies:
       - matplotlib-venn
       - biopython
       - dREP
+      - mummer
+      - mash
+      - sra-tools
+      - porechop
+      - mafft
+      - perl-padwalker
+      - roary
+      - samtools
+      - bwa
+      - perl-db-file
+      - sickle-trim
+      - minimap2
+      - spades
